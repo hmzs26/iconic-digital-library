@@ -24,7 +24,7 @@ A web-based platform built on WordPress to solve the problem of accessing, organ
 ---
 
 ## 👥 Team Members & Contributors
-* **Student Lead:** [Insert Name] ([GitHub Handle])
+* **Student Lead:** Hamza Sulyman (https://github.com/hmzs26)
 * **Team Member 2:** [Insert Name] ([GitHub Handle])
 * **Team Member 3:** [Insert Name] ([GitHub Handle])
 * **Team Member 4:** [Insert Name] ([GitHub Handle])
