@@ -1,6 +1,6 @@
 # Digital Library and Knowledge Repository
 
-A comprehensive web-based platform built on WordPress designed to solve the difficulty of accessing, organizing, and managing institutional learning resources and academic research.
+A web-based platform built on WordPress to solve the problem of accessing, organizing, and managing institutional learning resources and academic research.
 
 ## 📌 Project Overview
 * **Domain:** Knowledge Management
